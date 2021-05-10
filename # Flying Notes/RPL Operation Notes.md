@@ -2,6 +2,71 @@
 
 ![Bankstown - Manoeuvring Area Maps](../src/img/mam-bankstown.png)
 
+## Effects of Control
+
+**Primary Controls:**
+|                      | Aileron        | Elevator       | Rudder       |
+|----------------------|----------------|----------------|--------------|
+| **Primary Effect**   | Roll           | Pitch          | Yaw          |
+| **Secondary Effect** | Yaw            | Speed          | Roll         |
+| **Controlled By**    | Control Column | Control Column | Rudder Pedal |
+| **Axis**             | Longitudinal   | Lateral        | Normal       |
+
+**Ancillary Controls:**
+- Trim
+- Flaps
+- Throttle
+- Mixture
+- Carburetor Heat
+
+## Straight and Level
+
+Power setting for PA-28-161 Warrior III.
+
+| Warrior III  | Normal Cruise   |
+|--------------|-----------------|
+| **Power**    | 2400 - 2450 RPM |
+| **Attitude** | 1/3 Ground      |
+| **Speed**    | 105 kts         |
+
+| Warrior III  | Fast Cruise                    |
+|--------------|--------------------------------|
+| **Power**    | 2500 RPM                       |
+| **Attitude** | Slightly lower than 1/3 ground |
+| **Speed**    | 110 kts                        |
+
+| Warrior III  | Slow Cruise     |
+|--------------|-----------------|
+| **Power**    | 1900 RPM        |
+| **Attitude** | Nose on horizon |
+| **Speed**    | 75 kts          |
+
+| Warrior III  | Safe Slow Cruise              |
+|--------------|-------------------------------|
+| **Power**    | 2100 RPM                      |
+| **Attitude** | 1/2 Ground, 2 stages of flaps |
+| **Speed**    | 70 kts                        |
+
+## Circuits - My Problems
+
+**Take-off:**
+
+**Upwind:**
+
+**Crosswind:**
+
+**Downwind:**
+
+**Base:**
+
+**Final:**
+
+**Landing:**
+
+**Touch & Go:**
+
+**Radio:**
+
 ## Radio for Circuits
 
 | Bankstown Airport Service | Frequency (MHz) |
