@@ -2,9 +2,14 @@
 
 ![Bankstown - Manoeuvring Area Maps](../src/img/mam-bankstown.png)
 
-## Effects of Control
+## Table of Contents
 
-**Primary Controls:**
+[TOC]
+
+## 1. Effects of Control
+
+### Primary Controls
+
 |                      | Aileron        | Elevator       | Rudder       |
 |----------------------|----------------|----------------|--------------|
 | **Primary Effect**   | Roll           | Pitch          | Yaw          |
@@ -12,62 +17,211 @@
 | **Controlled By**    | Control Column | Control Column | Rudder Pedal |
 | **Axis**             | Longitudinal   | Lateral        | Normal       |
 
-**Ancillary Controls:**
+### Ancillary Controls
+
 - Trim
 - Flaps
 - Throttle
 - Mixture
 - Carburetor Heat
 
-## Straight and Level
+## 2. Straight and Level
 
 Power setting for PA-28-161 Warrior III.
 
-| Warrior III  | Normal Cruise   |
-|--------------|-----------------|
-| **Power**    | 2400 - 2450 RPM |
-| **Attitude** | 1/3 Ground      |
-| **Speed**    | 105 kts         |
+### Normal Cruise
 
-| Warrior III  | Fast Cruise                    |
+| Warrior III  | Normal Cruise     |
+|--------------|-------------------|
+| **Power**    | 2,400 - 2,450 RPM |
+| **Attitude** | 1/3 Ground        |
+| **Speed**    | 105 kts           |
+| **Trim and Balance** |           |
+
+### Fast Cruise
+
+| Warrior III  | Fast Cruise                     |
+|--------------|---------------------------------|
+| **Power**    | 2,500 RPM                       |
+| **Attitude** | Slightly lower than 1/3 ground  |
+| **Speed**    | 110 kts                         |
+| **Trim and Balance** |                         |
+
+### Slow Cruise
+
+| Warrior III  | Slow Cruise      |
+|--------------|------------------|
+| **Power**    | 1,900 RPM        |
+| **Attitude** | Nose on horizon  |
+| **Speed**    | 75 kts           |
+| **Trim and Balance** |          |
+
+### Safe Slow Cruise
+
+| Warrior III  | Safe Slow Cruise               |
 |--------------|--------------------------------|
-| **Power**    | 2500 RPM                       |
-| **Attitude** | Slightly lower than 1/3 ground |
-| **Speed**    | 110 kts                        |
+| **Power**    | 2,100 RPM                      |
+| **Attitude** | 1/2 Ground, 2 stages of flaps  |
+| **Speed**    | 70 kts                         |
+| **Trim and Balance** |                        |
 
-| Warrior III  | Slow Cruise     |
+## 3. Climbing
+
+Power setting for PA-28-161 Warrior III.
+
+### Best Angle Climb
+
+| Warrior III  | Best Angle Climb ($\mathrm{V_x}$) |
+|--------------|-----------------------------------|
+| **Power**    | Full Power                        |
+| **Attitude** | All Sky                           |
+| **Speed**    | 63 kts                            |
+| **Trim and Balance** |                           |
+
+### Best Rate Climb
+
+| Warrior III  | Best Rate Climb ($\mathrm{V_y}$) |
+|--------------|----------------------------------|
+| **Power**    | Full Power                       |
+| **Attitude** | Nose on horizon                  |
+| **Speed**    | 79 kts                           |
+| **Trim and Balance** |                          |
+
+### Cruise Climb
+
+| Warrior III  | Cruise Climb       |
+|--------------|--------------------|
+| **Power**    | Full Power         |
+| **Attitude** | Just below horizon |
+| **Speed**    | 87 kts             |
+| **Trim and Balance** |            |
+
+
+## 4. Descending
+
+Power setting for PA-28-161 Warrior III.
+
+### Glide Descend
+
+| Warrior III  | Glide Descend |
+|--------------|---------------|
+| **Power**    | Idle          |
+| **Attitude** | 1/3 Ground    |
+| **Speed**    | 73 kts        |
+| **Trim and Balance** |       |
+
+### Cruise Descend
+
+| Warrior III  | Cruise Descend  |
 |--------------|-----------------|
-| **Power**    | 1900 RPM        |
-| **Attitude** | Nose on horizon |
-| **Speed**    | 75 kts          |
+| **Power**    | 2,100 RPM       |
+| **Attitude** | 1/3 Ground      |
+| **Speed**    | 95 kts          |
+| **Trim and Balance** |         |
 
-| Warrior III  | Safe Slow Cruise              |
-|--------------|-------------------------------|
-| **Power**    | 2100 RPM                      |
-| **Attitude** | 1/2 Ground, 2 stages of flaps |
-| **Speed**    | 70 kts                        |
+### Approach Descend
 
-## Circuits - My Problems
+| Warrior III  | Approach Descend               |
+|--------------|--------------------------------|
+| **Power**    | 1,500 RPM                      |
+| **Attitude** | 1/2 Ground, 2 stages of flaps  |
+| **Speed**    | 75 kts                         |
+| **Trim and Balance** |                        |
 
-**Take-off:**
+## 5. Turning
 
-**Upwind:**
+**Effect on Stall Speed:** \[\text{New Stall Speed} = \text{Old Stall Speed} \times \sqrt{G}\]
 
-**Crosswind:**
+## 6. Stalling
 
-**Downwind:**
+### HASELL Checks
 
-**Base:**
+- **Height:** Sufficient to recover, by at least **3,000 ft AGL**.
+- **Airframe:** Flaps, landing gear, brakes and trim.
+- **Security:** Loose items, harnesses.
+- **Engine:** Fuel on **FULLEST** tank, fuel pump **ON**, engine instrument in **GREEN**, mixture **RICH** and carby heat **ON**.
+- **Location:** Airspace, populated area, landing site.
+- **Lookout:** 360° turn.
 
-**Final:**
+### Clean Stall Entry
 
-**Landing:**
+Clean stall are entered from straight and level flight.
 
-**Touch & Go:**
+* HASELL checks;
+* Reference point selected;
+* Fuel pump on;
+* Carby heat on;
+* Close throttle to idle;
+* Slowly raise the nose and maintain altitude, allowing the airspeed to decrease;
+* Maintain reference point with rudder.
 
-**Radio:**
+### Clean Stall Recovery
 
-## Radio for Circuits
+**Simultaneously:**
+* Aileron neutral;
+* Relax the back pressure, set attitude for S & L;
+* Rudder to prevent further yaw or wing drop;
+* Apply full power.
+
+**When the wing are un-stalled:**
+* Level the wings with aileron;
+* Raise the nose to the climb attitude *(Warning: be cautious of secondary stall)*
+* Resume normal climb and complete the After Take Off checks.
+
+### Approach Stall Entry
+
+This stall simulates the aeroplane coming in to land in the approach configuration.
+
+* HASELL checks;
+* Reference point selected;
+* Fuel pump on;
+* Carby heat on;
+* Reduce power to 1,500 RPM;
+* Select 2 stage of flap when airspeed in white arc and trim;
+* Slowly raise the nose and maintain altitude, allowing the airspeed to decrease;
+* Maintain reference point with rudder.
+
+### Approach Stall Recovery
+
+**Simultaneously:**
+* Aileron neutral;
+* Relax the back pressure, set attitude for S & L;
+Rudder to prevent further yaw or wing drop;
+Apply full power.
+
+**When the wing are un-stalled:**
+* Level the wings with aileron;
+* Raise the nose to the climb attitude *(Warning: be cautious of secondary stall)*
+* After achieving at least 60 KIAS and a positive rate of climb, retract flaps and on stage at a time
+* Resume normal climb and complete the After Take Off checks.
+
+### Incipient Spin Recovery
+
+**Simultaneously:**
+* Ailerons neutral;
+* Reduce power to idle;
+* Apply sufficient forward pressure to unstall the wings and apply full and opposite rudder;
+* Once rotation stops, release rudder pressure.
+
+**When the wing are un-stalled:**
+* Level the wings with aileron;
+* Add full power, carby heat off;
+* Raise the nose to the climb attitude;
+* Resume normal climb and complete the After Take Off checks.
+
+## 7. Circuits
+
+- **Take-off:**
+- **Upwind:**
+- **Crosswind:**
+- **Downwind:**
+- **Base:**
+- **Final:**
+- **Landing:**
+- **Touch & Go:**
+- **Radio:**
+
+### Radio for Circuits
 
 | Bankstown Airport Service | Frequency (MHz) |
 |---------------------------|-----------------|
