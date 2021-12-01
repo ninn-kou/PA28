@@ -1,12 +1,12 @@
-# RPL Theorem Study Questions
+## RPL Theorem Study Questions
 
 [TOC]
 
-## AV16 Basic Aeronautical Knowledge Quiz's
+### AV16 Basic Aeronautical Knowledge Quiz's
 
-### Module 1: What is an Aircraft
+#### Module 1: What is an Aircraft
 
-#### ✔︎ Q6 (1 mark)
+##### ✔︎ Q6 (1 mark)
 
 **The power to taxi on the ground is provided by ?**
 
@@ -14,7 +14,7 @@
 - [X] B. The propeller.
 - [ ] C. Both the propeller and the engine driven main gear wheels.
 
-#### ✔︎ Q8 (1 mark)
+##### ✔︎ Q8 (1 mark)
 
 **Brakes are fitted to the main wheels, and ?**
 
@@ -22,7 +22,7 @@
 - [X] B. Can be operated on the left or right side independently.
 - [ ] C. Are operated by applying pressure to the rudder pedals, but can not be operated independently of each other.
 
-#### ✔︎ Q9 (1 mark)
+##### ✔︎ Q9 (1 mark)
 
 **The ground stability of an aircraft is greatest in ?**
 
@@ -30,7 +30,7 @@
 - [ ] B. Tail-wheel type wheel arrangements.
 - [ ] C. Tail-wheel and tricycle type wheel arrangements equally.
 
-#### ✔︎ Q15 (1 mark)
+##### ✔︎ Q15 (1 mark)
 
 **"Induced Drag" is caused by ?**
 
@@ -38,7 +38,7 @@
 - [ ] B. The resistance to air flow by the aircraft structure.
 - [ ] C. The sum of resistance to airflow by the aircraft structure, and the creation of lift.
 
-#### ✘ Q16 (1 mark)
+##### ✘ Q16 (1 mark)
 
 **The difference in pressure above the wing to that below it is effected by ?**
 
@@ -46,7 +46,7 @@
 - [ ] B. The speed of the wing through the air only.
 - [X] C. The speed of the wing through the air, and the angle of attack.
 
-#### ✔︎ Q28 (1 mark)
+##### ✔︎ Q28 (1 mark)
 
 **During a turn to the right, the skid ball is to the right of centre. In this case to "balance the turn" you should ?**
 
@@ -54,7 +54,7 @@
 - [X] B. Step on the right rudder pedal.
 - [ ] C. Step on the left rudder pedal.
 
-#### ✔︎ Q30 (1 mark)
+##### ✔︎ Q30 (1 mark)
 
 **The "Directional Gyroscope Compass" (DG) is aligned with ?**
 
@@ -62,7 +62,7 @@
 - [X] B. Magnetic north.
 - [ ] C. Both true and magnetic north simultaneously.
 
-#### ✘ Q33 (1 mark)
+##### ✘ Q33 (1 mark)
 
 **On an altimeter, the big pointer is on 9 and the small pointer is indicating slight less than 5. The altitude of the aircraft is ?**
 

@@ -1,14 +1,14 @@
-# RPL Operation Training Notes
+## RPL Operation Training Notes
 
 ![Bankstown - Manoeuvring Area Maps](../src/img/mam-bankstown.png)
 
-## Table of Contents
+### Table of Contents
 
 [TOC]
 
-## 1. Effects of Control
+### 1. Effects of Control
 
-### Primary Controls
+#### Primary Controls
 
 |                      | Aileron        | Elevator       | Rudder       |
 |----------------------|----------------|----------------|--------------|
@@ -17,7 +17,7 @@
 | **Controlled By**    | Control Column | Control Column | Rudder Pedal |
 | **Axis**             | Longitudinal   | Lateral        | Normal       |
 
-### Ancillary Controls
+#### Ancillary Controls
 
 - Trim
 - Flaps
@@ -25,11 +25,11 @@
 - Mixture
 - Carburetor Heat
 
-## 2. Straight and Level
+### 2. Straight and Level
 
 Power setting for PA-28-161 Warrior III.
 
-### Normal Cruise
+#### Normal Cruise
 
 | Warrior III  | Normal Cruise     |
 |--------------|-------------------|
@@ -38,7 +38,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 105 kts           |
 | **Trim and Balance** |           |
 
-### Fast Cruise
+#### Fast Cruise
 
 | Warrior III  | Fast Cruise                     |
 |--------------|---------------------------------|
@@ -47,7 +47,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 110 kts                         |
 | **Trim and Balance** |                         |
 
-### Slow Cruise
+#### Slow Cruise
 
 | Warrior III  | Slow Cruise      |
 |--------------|------------------|
@@ -56,7 +56,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 75 kts           |
 | **Trim and Balance** |          |
 
-### Safe Slow Cruise
+#### Safe Slow Cruise
 
 | Warrior III  | Safe Slow Cruise               |
 |--------------|--------------------------------|
@@ -65,11 +65,11 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 70 kts                         |
 | **Trim and Balance** |                        |
 
-## 3. Climbing
+### 3. Climbing
 
 Power setting for PA-28-161 Warrior III.
 
-### Best Angle Climb
+#### Best Angle Climb
 
 | Warrior III  | Best Angle Climb ($\mathrm{V_x}$) |
 |--------------|-----------------------------------|
@@ -78,7 +78,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 63 kts                            |
 | **Trim and Balance** |                           |
 
-### Best Rate Climb
+#### Best Rate Climb
 
 | Warrior III  | Best Rate Climb ($\mathrm{V_y}$) |
 |--------------|----------------------------------|
@@ -87,7 +87,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 79 kts                           |
 | **Trim and Balance** |                          |
 
-### Cruise Climb
+#### Cruise Climb
 
 | Warrior III  | Cruise Climb       |
 |--------------|--------------------|
@@ -97,11 +97,11 @@ Power setting for PA-28-161 Warrior III.
 | **Trim and Balance** |            |
 
 
-## 4. Descending
+### 4. Descending
 
 Power setting for PA-28-161 Warrior III.
 
-### Glide Descend
+#### Glide Descend
 
 | Warrior III  | Glide Descend |
 |--------------|---------------|
@@ -110,7 +110,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 73 kts        |
 | **Trim and Balance** |       |
 
-### Cruise Descend
+#### Cruise Descend
 
 | Warrior III  | Cruise Descend  |
 |--------------|-----------------|
@@ -119,7 +119,7 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 95 kts          |
 | **Trim and Balance** |         |
 
-### Approach Descend
+#### Approach Descend
 
 | Warrior III  | Approach Descend               |
 |--------------|--------------------------------|
@@ -128,13 +128,13 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 75 kts                         |
 | **Trim and Balance** |                        |
 
-## 5. Turning
+### 5. Turning
 
 **Effect on Stall Speed:** \[\text{New Stall Speed} = \text{Old Stall Speed} \times \sqrt{G}\]
 
-## 6. Stalling
+### 6. Stalling
 
-### HASELL Checks
+#### HASELL Checks
 
 - **Height:** Sufficient to recover, by at least **3,000 ft AGL**.
 - **Airframe:** Flaps, landing gear, brakes and trim.
@@ -143,7 +143,7 @@ Power setting for PA-28-161 Warrior III.
 - **Location:** Airspace, populated area, landing site.
 - **Lookout:** 360° turn.
 
-### Clean Stall Entry
+#### Clean Stall Entry
 
 Clean stall are entered from straight and level flight.
 
@@ -155,7 +155,7 @@ Clean stall are entered from straight and level flight.
 * Slowly raise the nose and maintain altitude, allowing the airspeed to decrease;
 * Maintain reference point with rudder.
 
-### Clean Stall Recovery
+#### Clean Stall Recovery
 
 **Simultaneously:**
 * Aileron neutral;
@@ -168,7 +168,7 @@ Clean stall are entered from straight and level flight.
 * Raise the nose to the climb attitude *(Warning: be cautious of secondary stall)*
 * Resume normal climb and complete the After Take Off checks.
 
-### Approach Stall Entry
+#### Approach Stall Entry
 
 This stall simulates the aeroplane coming in to land in the approach configuration.
 
@@ -181,7 +181,7 @@ This stall simulates the aeroplane coming in to land in the approach configurati
 * Slowly raise the nose and maintain altitude, allowing the airspeed to decrease;
 * Maintain reference point with rudder.
 
-### Approach Stall Recovery
+#### Approach Stall Recovery
 
 **Simultaneously:**
 * Aileron neutral;
@@ -195,7 +195,7 @@ Apply full power.
 * After achieving at least 60 KIAS and a positive rate of climb, retract flaps and on stage at a time
 * Resume normal climb and complete the After Take Off checks.
 
-### Incipient Spin Recovery
+#### Incipient Spin Recovery
 
 **Simultaneously:**
 * Ailerons neutral;
@@ -209,7 +209,7 @@ Apply full power.
 * Raise the nose to the climb attitude;
 * Resume normal climb and complete the After Take Off checks.
 
-## 7. Circuits
+### 7. Circuits
 
 - **Take-off:**
 - **Upwind:**
@@ -221,7 +221,7 @@ Apply full power.
 - **Touch & Go:**
 - **Radio:**
 
-### Radio for Circuits
+#### Radio for Circuits
 
 | Bankstown Airport Service | Frequency (MHz) |
 |---------------------------|-----------------|
