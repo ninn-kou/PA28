@@ -96,7 +96,6 @@ Power setting for PA-28-161 Warrior III.
 | **Speed**    | 87 kts             |
 | **Trim and Balance** |            |
 
-
 ### 4. Descending
 
 Power setting for PA-28-161 Warrior III.
