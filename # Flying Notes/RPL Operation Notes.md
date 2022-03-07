@@ -1,6 +1,6 @@
 ## RPL Operation Training Notes
 
-![Bankstown - Manoeuvring Area Maps](../src/img/mam-bankstown.png)
+![Bankstown - Manoeuvring Area Maps](../img/mam-bankstown.png)
 
 ### Table of Contents
 
