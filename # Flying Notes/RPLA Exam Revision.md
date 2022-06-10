@@ -98,3 +98,48 @@ risk exists
     - `Green flashing` **Return** for landing
     - `Red` **Give way** to other aircraft and **continue** circling
     - `Red flashing` **Do not land** aerodrome unsafe
+
+### Unit and Rules of Thumb
+
+- Cloud: `3 OKTAS` 3/8 sky cloud
+- Runway 34: 340 Degree Magnetic
+- Direction:
+  - Clock Direction:
+    - `12 o'clock` ahead ⬆️
+    - `3 o'clock` right ➡️
+    - `6 o'clock` back ⬇️
+    - `9 o'clock` left ⬅️
+  - Degree
+    - `360` North
+    - `90` East
+    - `180` South
+    - `270` West
+- Wind Direction and Speed
+  - ATIS: Degree magnetic / knots
+  - Area forecast: Degree true / knots
+- Temperature
+  - Australia use Centigrade temperature for aviation.
+  - Centigrade to Fahrenheit: `(°C × 9/5) + 32 = °F`
+- Visibility in `m` or `km`
+- Altitude and Height
+  - in `ft`
+  - `1 ft = 0.31 m`, `1 m = 3.28 ft`
+  - `AAL Height Above Average Terrain
+  - `AGL` Height Above Ground Level
+  - `AMSL` Height Above Mean Sea Level
+- Time
+  - Time Zone
+    - `UTC` Universal Time Coordinated
+    - `1100 UTC (+0) = 2100 AEST (+10)`
+    - `1100 UTC (+0) = 2200 AEDT (+11)`
+  - Abbreviations
+    - `ETA` Estimated Time of Arrival
+    - `ETD` Estimated time of Departure
+    - `EET` Estimated Elapsed Time
+- `1 NM = 1.852 km`, `1 km = 0.54 MN`
+- `1 mile = 1.609 km`, `1 km = 0.62 mile`
+- `1 lb = 0.45 kg`, `1 kg = 2.205 lb`
+- Density of AVGAS = `0.72 kg/L`
+- Density of lubricating oil weight = `0.8725 kg/L`
+- `1 US gal = 3.785 L`
+- `1 knot = 1 NM//hour`
