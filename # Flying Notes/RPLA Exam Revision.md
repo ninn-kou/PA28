@@ -1,0 +1,100 @@
+---
+markmap:
+  maxWidth: 800
+---
+
+### Communications
+
+- Frequency
+  - HF `3 MHz - 30 MHz`
+    - reflects from the ionosphere
+    - could be used for long distance communication
+  - VHF `30 MHz - 300 MHz`
+    - straight line path
+    - 1 Megahertz (MHz) = 1,000,000 Hz
+    - Minimum separation is `0.05 MHz`
+    - `118.0 MHz - 136.0 MHz` for aviation purposes in AU
+    - Range
+      - normal range `48 NM` at `2000 ft AMSL`
+      - `60 NM - 80 NM` below `5000 ft`
+      - `90 NM - 110 NM` between `5000 ft` and `10000 ft`
+  - UHF `300 MHz - 3 GHz (3000 MHz)`
+
+- VHF Equipments
+  - Aerials
+  - ON/OFF Switch
+  - Transmit Button
+  - Microphones, Headphones and Speakers
+  - Frequency Selector
+  - Volume Control
+  - Squelch Control
+  - Power Sources, Fuses and Circuit Breakers
+
+- VHF Communication
+  - is required
+    - in CTA (Class C, D, E)
+    - in controlled aerodromes + not-manned tower = CTR (Class G)
+    - outside CTA + above `5000 ft AMSL`
+    - outside CTA  + Reduced VMC + below `max(3000 ft AMSL, 1000 ft AGL)`
+    - at non-towered aerodromes + "CERT" or "REG" on ERSA
+  - continuous listening watch is required *except* Class G + below `5000 ft AMSL` but highly recommended
+
+- Transponder
+  - Code eg. `Squawk 7421`
+    - `1200` VFR flights (Class E, G)
+    - `3000` All flights (Class A, C, D) + IFR flights (Class E)
+    - `7500` `EMERGENCY CODE` Aircraft hijacking
+    - `7600` `EMERGENCY CODE` Radio failure (lost communications)
+    - `7700` `EMERGENCY CODE` Emergency
+  - Mode
+    - `A`	Provides a 4-digit octal identification code for the aircraft, set in the cockpit but assigned by the air traffic controller. Mode 3/A is often combined with Mode C to provide altitude information as well.
+    - `C`	Provides the aircraft's pressure altitude and is usually combined with Mode 3/A to provide a combination of a 4-digit octal code and altitude as Mode 3 A/C, often referred to as Mode A and C.
+    - `S`	Provides multiple information formats to a selective interrogation. Each aircraft is assigned a fixed 24-bit address.
+  - receives interrogation from secondary surveillance radar (SSR) on `1,030 MHz` and replies on `1,090 MHz`
+  - *You must select the transponder to `Standby` before effecting any SSR code change and then return the transponder to `ON/ALT`.*
+
+- Radio Telephone
+  - Pronunciation
+    - Letters `Alpha, Bravo, ..., Zulu`
+    - Numbers `9 -> NINE ER`
+    - Altitude, Height and Visibility `12700 ft -> One Two THOUSAND Seven HUNDRED`
+    - Flight Level, Speed, Heading, Direction, Runways and QNH `One Three Zero`
+    - Frequencies `132.8 -> One Three Two DECIMAL Eight`
+    - Time `0920 UTC -> Zero Nine Two Zero ZULU`
+  - Words and Phrases `Affirm / Negative / Standby / ......`
+
+- Readability Scale
+  - `5` Perfectly Readable
+  - `4` Readable
+  - `3` Readable but with difficulty
+  - `2` Readable now and then
+  - `1` Unreadable
+
+- Emergency
+  - `MAYDAY` Call: `7700` distress eg. engine failure
+  - `PANPAN` Call: `7700` urgency eg. passenger heart attack
+  - `MINIMUM FUEL` *Guidelines for aircraft fuel requirements Chapter 6.4.1*
+  - Lost of Radio
+    - maintain terrain clearance and VMC
+    - try to establish communication
+    - broadcast intensions with prefix `TRANSMITTING BLIND`
+    - Squawk `7600`
+    - back to most suitable aerodrome
+    - maintain `1500 ft` passing the aerodrome
+    - indicating by rocking the aircraft wings
+    - see light signals
+    - report arrival to ATS
+
+- Light Signals
+  - On Ground
+    - `Green` Authorised to **take off** if pilot is satisfied that no collision risk exists
+    - `Green flashing` Authorised to **taxi** if pilot is satisfied that no collision
+risk exists
+    - `Red` Stop
+    - `Red flashing` **Taxi clear of runway in use**
+    - `White flashing` **Return** to starting point on aerodrome
+  - In flight
+    - `Green` Authorised to **land** if pilot is satisfied that no collision risk exists
+    - `Green flashing` **Return** for landing
+    - `Red` **Give way** to other aircraft and **continue** circling
+    - `Red flashing` **Do not land** aerodrome unsafe
