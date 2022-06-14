@@ -128,6 +128,7 @@ risk exists
   - `AGL` Height Above Ground Level
   - `AMSL` Height Above Mean Sea Level
 - Time
+  - Time Group: year-month-day and `MM-DD-HH-MM`
   - Time Zone
     - `UTC` Universal Time Coordinated
     - `1100 UTC (+0) = 2100 AEST (+10)`
@@ -136,10 +137,55 @@ risk exists
     - `ETA` Estimated Time of Arrival
     - `ETD` Estimated time of Departure
     - `EET` Estimated Elapsed Time
-- `1 NM = 1.852 km`, `1 km = 0.54 MN`
-- `1 mile = 1.609 km`, `1 km = 0.62 mile`
-- `1 lb = 0.45 kg`, `1 kg = 2.205 lb`
-- Density of AVGAS = `0.72 kg/L`
-- Density of lubricating oil weight = `0.8725 kg/L`
-- `1 US gal = 3.785 L`
-- `1 knot = 1 NM//hour`
+- Unit Converting
+  - `1 NM = 1.852 km`, `1 km = 0.54 MN`
+  - `1 mile = 1.609 km`, `1 km = 0.62 mile`
+  - `1 lb = 0.45 kg`, `1 kg = 2.205 lb`
+  - Density of AVGAS = `0.72 kg/L`
+  - Density of lubricating oil weight = `0.8725 kg/L`
+  - `1 US gal = 3.785 L`
+  - `1 knot = 1 NM//hour`
+
+### Navigation
+
+- North
+  - True North `T`: Direction to geographic north pole
+  - Magnetic North `M`: Direction to magnetic north pole
+  - Compass North `C`: Direction indicated by a freely suspended compass needle
+- Difference between different "North"
+  - *Note: `East -> Clockwise -> Positive` and `West -> Anticlockwise -> Negative`*
+  - Variation `V`: difference between the true north and the magnetic north `True + Variation = Magnetic`
+  - Deviation `D`: difference between the magnetic north and the compass north `Magnetic + Deviation = Compass`
+  - **Isogonals**: Lines connecting points of equal variation
+- Longitude and Latitude
+  - Longitude (0° -  180°)
+  - Latitude (0° -  90°)
+  - Prime meridian which **longitude** is defined to be 0°
+  - Equator which **latitude** is defined to be 0°.
+  - 1° (Degree) = 60′ (Minutes) = 3600″ (Seconds)
+  - Nautical mile: one minute (1/60 of a degree) of latitude.
+- Charts
+  - World Aeronautical Charts `(WAC)`
+    - `1:1,000,000`
+    - Typographical and culture features
+    - **NO** airspace division or restricted & danger area
+  - Visual Navigation Chart `(VNC)`
+    - `1:500,000`
+    - used when operating around terminal areas
+    - less details but more coverage area in one chart
+  - Visual Terminal Charts `(VTC)`
+    - `1:250,000`
+    - used when area covered by the specific chart (close to main airports & limited to these)
+  - Terminal Area Charts `(TAC)`
+    - TAC Charts are for use in terminal areas
+    - these charts provide airspace, air-routes, prohibited, restricted and danger areas, navigation aids and radio frequencies
+    - they are designed to display aeronautical information at a larger scale for easier use in congested areas
+  - Planning Chart Australia `(PCA)`
+    - meteorological **area forecast boundaries and locations**
+    - **communication coverage** outside controlled airspace and WAC coverage
+- IAS to TAS for low speed aircraft
+
+### Other Concepts
+
+- **Isobars**: Lines connecting points of equal pressure
+- **Isotachs**: Lines connecting points of equal wind speed
