@@ -1,6 +1,6 @@
 ---
 markmap:
-  maxWidth: 800
+  maxWidth: 1000
 ---
 
 ## RPLA Exam Revision
@@ -186,6 +186,53 @@ risk exists
     - meteorological **area forecast boundaries and locations**
     - **communication coverage** outside controlled airspace and WAC coverage
 - IAS to TAS for low speed aircraft
+
+### Performance
+
+TODO: TO/LD performance need to be finished.
+
+- Pressure Altitude
+  - Pressure altitude is a the equivalent altitude in the International Standard Atmosphere.
+  - Only if the datum (QNH) is 1013.2 hPa, the altimeter indicates pressure altitude.
+  - `PA = Elevation - 30 * (QNH - 1013)`
+  - **Eg. Cooma Aerodrome**
+    - `Elevation: 3106 ft & QNH 1000 hPa`
+    - `PA = 3106 - 30 * (1000 - 1013)`
+    - `PA = 3106 + 390 = 3496 ft`
+- Density Altitude
+  - The density altitude is the altitude relative to standard atmospheric conditions at which the air density would be equal to the indicated air density at the place of observation.
+  - Density Altitude is corresponding to the density in the International Standard Atmosphere (ISA).
+  - DA is PA corrected for the temperature
+  - `ISA Temperature = 15°C - (height(thousand ft) * 2°C)`
+  - `DA = Pressure Altitude + 120 * (Actual Temperature - ISA Temperature)`
+  - **Eg. Cooma Aerodrome**
+    - `Elevation: 3106 ft & QNH 1000 hPa & 12°C`
+    - `ISA Temperature = 15°C - 3.496 * 2°C = 8°C`
+    - `PA = 3496 ft`
+    - `DA = 3496 + 120 * (12 - 8) = 3976 ft`
+- Takeoff Performance
+  - Takeoff distance margin whenever build to "P" chart is normally `1.15`.
+  - Takeoff Safety Speed `TOSS`
+  - Takeoff Distance Required `TODR`
+- Landing Performance
+- **Improving** Factors
+  - **Decreasing** Landing Distance
+    - Dry runway / No water on the runway
+    - Upslope
+    - Decreasing weight
+    - Headwind
+    - Higher air density
+  - **Decreasing** Takeoff Distance
+    - Dry runway / No water on the runway
+    - Downslope
+    - Decreasing weight
+    - Headwind
+    - Higher air density
+  - **Increasing** Climb Gradient
+    - Decreasing weight
+    - Headwind
+- V-speed
+- Weather conditions
 
 ### Other Concepts
 
