@@ -243,3 +243,24 @@ risk exists
 
 - **Isobars**: Lines connecting points of equal pressure
 - **Isotachs**: Lines connecting points of equal wind speed
+
+
+Q9. (3 marks)
+Refer takeoff weight chart fig 3 in the RPL, PPL & CPL (Aeroplane) Workbook Version 3 - 02 December 2021 .
+Given:
+Aerodrome elevation: 2850 ft AMSL. Var Nil
+QNH: 1008 hPa.
+Ambient temperature: +25°C.
+Flap: 10 degrees.
+RWY 18/36
+Slope: 1% DOWN to NORTH.
+TAF Wind 225°/20 kt
+Takeoff weight: Maximum.
+Surface: Short dry grass surface
+
+The minimum takeoff distance required (TODR) in this case is closest to ?
+1000 m.
+750 m.
+850 m.
+950 m.
+

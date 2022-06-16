@@ -69,3 +69,9 @@
 - [ ] A. Unable to be found on this instrument.
 - [X] B. 4900 ft.
 - [ ] C. 9400 ft.
+
+#### Module 11b: Performance 2 - "P" Takeoff Chart
+
+##### ✘ Q9 (3 marks)
+
+![](../img/AV16-11B-Q9.png)
