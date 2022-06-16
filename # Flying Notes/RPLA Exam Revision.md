@@ -189,8 +189,6 @@ risk exists
 
 ### Performance
 
-TODO: TO/LD performance need to be finished.
-
 - Pressure Altitude
   - Pressure altitude is a the equivalent altitude in the International Standard Atmosphere.
   - Only if the datum (QNH) is 1013.2 hPa, the altimeter indicates pressure altitude.
@@ -232,7 +230,14 @@ TODO: TO/LD performance need to be finished.
     - Decreasing weight
     - Headwind
 - V-speed
-- Weather conditions
+  - `V_FE` Maximum flap extended speed
+  - `V_FO` Maximum flap operating speed
+  - `V_NO` Maximum structural cruising speed or maximum speed for normal operations
+  - `V_NE` Never exceed speed
+  - `V_R` Rotation speed
+  - `V_S` Stall speed or minimum steady flight speed for which the aircraft is still controllable
+  - `V_X` Speed that will allow for best angle of climb
+  - `V_Y` Speed that will allow for the best rate of climb
 
 ### Other Concepts
 
