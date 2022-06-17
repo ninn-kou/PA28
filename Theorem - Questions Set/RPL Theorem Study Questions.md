@@ -109,3 +109,27 @@
 - [X] D. 950 m.
 
 ![11B-Q9-Solution](../img/AV16-11B-Q9.png)
+
+#### Module 11c: Performance 2 - "P" Landing Chart
+
+##### Q7 (3 marks)
+
+**Refer Day VFR work booklet landing weight chart fig 6 (or ATC manual page 352). Given:**
+- *Aerodrome elevation 4230 ft AMSL.*
+- *QNH 1004 hPa.*
+- *Temperature +20°C.*
+- *Flap - 30 degrees.*
+- *RWY 04 slope 2% DOWN.*
+- *Ambient wind 12 kt HEADWIND.*
+- *LDA 600 m.*
+
+**The minimum LDR/maximum landing weight permissible in these conditions is closest to ?**
+
+- [X] A. 575 m / 1060 kg.
+- [ ] B. 475 m / 1080 kg.
+- [ ] C. 550 m / 1100 kg.
+- [ ] D. 575 m / 1100 kg.
+
+![11C-Q7-Solution](../img/AV16-11C-Q7.png)
+
+#####
