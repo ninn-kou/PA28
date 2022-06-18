@@ -131,3 +131,22 @@
 - [ ] D. 575 m / 1100 kg.
 
 ![11C-Q7-Solution](../img/AV16-11C-Q7.png)
+
+##### M11C.Q8 (3 marks)
+
+**Refer Day VFR work booklet landing weight chart fig 4. Given:**
+- *Airport elevation 3700 ft AMSL.*
+- *QNH 993 hPa.*
+- *Runways available are 05/23.*
+- *ATIS wind 230 degrees @ 5 kt.*
+- *Ambient temperature +14°C.*
+- *Slope 4% DOWN to SW.*
+
+**The runway to use to obtain the shortest possible landing distance / the minimum landing distance required (LDR) on that runway, in these conditions is ?**
+
+- [ ] A. RWY 05 / 850 m.
+- [X] B. RWY 05 / 670 m.
+- [ ] C. RWY 23 / 575 m.
+- [ ] D. RWY 23 / 700 m.
+
+![11C-Q8-Solution](../img/AV16-11C-Q8.png)
