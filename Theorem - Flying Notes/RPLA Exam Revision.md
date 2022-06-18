@@ -238,29 +238,17 @@ risk exists
   - `V_S` Stall speed or minimum steady flight speed for which the aircraft is still controllable
   - `V_X` Speed that will allow for best angle of climb
   - `V_Y` Speed that will allow for the best rate of climb
+- Charts
+  - Takeoff Charts
+    - **Refer to [takeoff chart examples from questions set module 11b.](../Theorem%20-%20Questions%20Set/RPL%20Theorem%20Study%20Questions.md#module-11b:-performance-2---"P"-takeoff-chart)**
+    - Module 11B Q8 `fig 5`
+    - Module 11B Q9 `fig 3`
+  - Landing Charts
+    - **Refer to [landing chart examples from questions set module 11c.](../Theorem%20-%20Questions%20Set/RPL%20Theorem%20Study%20Questions.md#module-11c:-performance-3---"P"-landing-chart)**
+    - Module 11C Q7 `fig 6`
+    - Module 11C Q8 `fig 4`
 
 ### Other Concepts
 
 - **Isobars**: Lines connecting points of equal pressure
 - **Isotachs**: Lines connecting points of equal wind speed
-
-
-Q9. (3 marks)
-Refer takeoff weight chart fig 3 in the RPL, PPL & CPL (Aeroplane) Workbook Version 3 - 02 December 2021 .
-Given:
-Aerodrome elevation: 2850 ft AMSL. Var Nil
-QNH: 1008 hPa.
-Ambient temperature: +25°C.
-Flap: 10 degrees.
-RWY 18/36
-Slope: 1% DOWN to NORTH.
-TAF Wind 225°/20 kt
-Takeoff weight: Maximum.
-Surface: Short dry grass surface
-
-The minimum takeoff distance required (TODR) in this case is closest to ?
-1000 m.
-750 m.
-850 m.
-950 m.
-
