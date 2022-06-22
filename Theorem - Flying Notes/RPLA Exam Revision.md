@@ -148,45 +148,6 @@ risk exists
   - `1 US gal = 3.785 L`
   - `1 knot = 1 NM//hour`
 
-### Navigation
-
-- North
-  - True North `T`: Direction to geographic north pole
-  - Magnetic North `M`: Direction to magnetic north pole
-  - Compass North `C`: Direction indicated by a freely suspended compass needle
-- Difference between different "North"
-  - *Note: `East -> Clockwise -> Positive` and `West -> Anticlockwise -> Negative`*
-  - Variation `V`: difference between the true north and the magnetic north `True + Variation = Magnetic`
-  - Deviation `D`: difference between the magnetic north and the compass north `Magnetic + Deviation = Compass`
-  - **Isogonals**: Lines connecting points of equal variation
-- Longitude and Latitude
-  - Longitude (0° -  180°)
-  - Latitude (0° -  90°)
-  - Prime meridian which **longitude** is defined to be 0°
-  - Equator which **latitude** is defined to be 0°.
-  - 1° (Degree) = 60′ (Minutes) = 3600″ (Seconds)
-  - Nautical mile: one minute (1/60 of a degree) of latitude.
-- Charts
-  - World Aeronautical Charts `(WAC)`
-    - `1:1,000,000`
-    - Typographical and culture features
-    - **NO** airspace division or restricted & danger area
-  - Visual Navigation Chart `(VNC)`
-    - `1:500,000`
-    - used when operating around terminal areas
-    - less details but more coverage area in one chart
-  - Visual Terminal Charts `(VTC)`
-    - `1:250,000`
-    - used when area covered by the specific chart (close to main airports & limited to these)
-  - Terminal Area Charts `(TAC)`
-    - TAC Charts are for use in terminal areas
-    - these charts provide airspace, air-routes, prohibited, restricted and danger areas, navigation aids and radio frequencies
-    - they are designed to display aeronautical information at a larger scale for easier use in congested areas
-  - Planning Chart Australia `(PCA)`
-    - meteorological **area forecast boundaries and locations**
-    - **communication coverage** outside controlled airspace and WAC coverage
-- IAS to TAS for low speed aircraft
-
 ### Performance
 
 - Pressure Altitude
@@ -247,6 +208,45 @@ risk exists
     - **Refer to [landing chart examples from questions set module 11c.](../Theorem%20-%20Questions%20Set/RPL%20Theorem%20Study%20Questions.md#module-11c:-performance-3---"P"-landing-chart)**
     - Module 11C Q7 `fig 6`
     - Module 11C Q8 `fig 4`
+
+### Navigation
+
+- North
+  - True North `T`: Direction to geographic north pole
+  - Magnetic North `M`: Direction to magnetic north pole
+  - Compass North `C`: Direction indicated by a freely suspended compass needle
+- Difference between different "North"
+  - *Note: `East -> Clockwise -> Positive` and `West -> Anticlockwise -> Negative`*
+  - Variation `V`: difference between the true north and the magnetic north `True + Variation = Magnetic`
+  - Deviation `D`: difference between the magnetic north and the compass north `Magnetic + Deviation = Compass`
+  - **Isogonals**: Lines connecting points of equal variation
+- Longitude and Latitude
+  - Longitude (0° -  180°)
+  - Latitude (0° -  90°)
+  - Prime meridian which **longitude** is defined to be 0°
+  - Equator which **latitude** is defined to be 0°.
+  - 1° (Degree) = 60′ (Minutes) = 3600″ (Seconds)
+  - Nautical mile: one minute (1/60 of a degree) of latitude.
+- Charts
+  - World Aeronautical Charts `(WAC)`
+    - `1:1,000,000`
+    - Typographical and culture features
+    - **NO** airspace division or restricted & danger area
+  - Visual Navigation Chart `(VNC)`
+    - `1:500,000`
+    - used when operating around terminal areas
+    - less details but more coverage area in one chart
+  - Visual Terminal Charts `(VTC)`
+    - `1:250,000`
+    - used when area covered by the specific chart (close to main airports & limited to these)
+  - Terminal Area Charts `(TAC)`
+    - TAC Charts are for use in terminal areas
+    - these charts provide airspace, air-routes, prohibited, restricted and danger areas, navigation aids and radio frequencies
+    - they are designed to display aeronautical information at a larger scale for easier use in congested areas
+  - Planning Chart Australia `(PCA)`
+    - meteorological **area forecast boundaries and locations**
+    - **communication coverage** outside controlled airspace and WAC coverage
+- IAS to TAS for low speed aircraft
 
 ### Other Concepts
 
