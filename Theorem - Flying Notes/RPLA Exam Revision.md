@@ -148,6 +148,50 @@ risk exists
   - `1 US gal = 3.785 L`
   - `1 knot = 1 NM//hour`
 
+### Instruments
+
+- Pressure Instruments
+  - Two aspects of air pressure:
+    - Static Pressure
+      - Only inversely relative to the altitude
+    - Dynamic Pressure
+      - proportional to the speed relative to the air
+      - proportional to the density of the air
+  - Three basic instruments relied on "pressure":
+    - Altimeter `ALT`
+      - measured by the **static pressure** only
+      - when static pressure system is blocked, the reading of `ALT` would be *iced*.
+    - Airspeed Indicator `ASI`
+      - measured by the **dynamic pressure**, which could be calculated by **the difference between total pressure and static pressure**
+      - `Dynamic Pressure = Pitot Pressure - Static Pressure`
+      - when static pressure system is blocked, the reading of `ASI` would be
+        - *underread* when climbing, because the actual static pressure would be lower than the read one.
+        - *overread* when descending, because the actual static pressure would be higher than the read one.
+    - Vertical Speed Indicator `VSI`:
+      - indicates the variation rate of altitude
+      - which is influenced by the **static pressure** only
+      - when static pressure system is blocked, the `VSI` could not show any climbing or descending data.
+- Gyroscopic Instruments
+  - Attitude Indicator / Artificial Horizon `AI`
+    - shows pitch attitude and bank angle
+    - *vacuum driven*
+  - Heading Indicator
+    - must be aligned to the magnetic compass every **15 minutes**.
+  - Turn Coordinator
+    - *electrically driven*
+    - could be emergency backup to the `AI`
+    - electrical failure would not influence the balance ball
+- Compass Instruments
+  - Magnetic Compass
+    - read from the compass card under lubber line on the face of instrument
+    - would **not be accurate** while the aeroplane is *accelerating, turning, or when entering a climb or descent*
+    - would **not be accurate** if *magnetic, electrical, battery or iron objects are placed near the compass*
+    - Turn and Acceleration Errors
+      - In the **north hemisphere**, if accelerating on *west or east*, acceleration error is an indication of a turn to the *south*.
+      - In the **south hemisphere**, the compass behaviour turns too fast through *north* and too slow through *south*. To minimise the error, the pilot must **overshot north and undershot south (ONUS)**.
+    - `Turning left, skidding right, compass decreasing, wings level`
+    - `Turning right, skidding left, compass increasing, wings level`
+
 ### Performance
 
 - Pressure Altitude
