@@ -5,6 +5,26 @@ markmap:
 
 ## RPLA Exam Revision
 
+### 1st RPLA Exam Deficiency
+
+- Minimum height rules
+  - **populous areas and public gatherings**: You must not fly an aeroplane over a populous area or public gathering below *1,000 ft* above the highest feature or obstacle within a horizontal radius of *600 m* of the point on the ground or water immediately below the aeroplane.
+  - **other areas**: When flying over an area that is not a populous area or public gathering  (CASR 91.265), you must not fly an aircraft below 500 ft above the highest feature or obstacle within a horizontal radius of 300 m of the point on the ground or water immediately below the aircraft.
+- Spin Recovery
+  - Power is first reduced to idle and the ailerons are neutralized.
+  - Then, full opposite rudder (that is, against the yaw) is added and held to counteract the spin rotation, and the elevator control is moved briskly forward to reduce the angle of attack below the critical angle.
+  - Depending on the airplane and type of spin, the elevator action could be a minimal input before rotation ceases, or in other cases the pilot may have to move the elevator control to its full forward position to effect recovery from the upright spin.
+  - Once the rotation has stopped, the rudder must be neutralized and the airplane returned to level flight.
+  - This procedure is sometimes called **<u>PARE</u>**, for *<u>P</u>ower idle*, *<u>A</u>ilerons neutral*, *<u>R</u>udder opposite the spin and held*, and *<u>E</u>levator through neutral*.
+- Glide Speed and Distance
+  - The gliding slope does not change with weight.
+  - However, the gliding speed would increase with weight so most manufacturers will establish the best glide speed at gross weight for the aircraft. That means your best glide speed will be a little lower for lower aircraft weights.
+- SARTIME Cancellation
+  - *"ABC cancel SARTIME 0700 for arrival at Archerfield."*
+- Ear
+  - When we climbing, the air pressure inside the ear would be higher than the air outside, but in that case, the air inside could easily escape through the tube because that is the normal direction of fluid movement.
+  - However, when we descend *again*, we end up in d situation where the air pressure on the outside of the drum is at a higher pressure than the air inside. It may **collapse** the tube. Because of this restriction, air cannot get into balance the pressure and so the ear drum is pushed in. This can be painful or even damaging.
+
 ### Communications
 
 - Frequency
@@ -216,12 +236,41 @@ risk exists
 - Turbulence
   - *Turbulent vortices causing downdrafts are most likely downwind of the obstacle.*
   - **Weak turbulence** could lead to very strong rolling moment or a direct downdraught by increasing AoA from a heavy aeroplane.
+  - Wingtip vortices occur when a wing is generating **lift**.
   - To **avoid** weak turbulence
     - `You: takeoff` `Heavy: takeoff` liftoff *before* the heavy aircraft's liftoff point, and stay above and upwind its flight path
     - `You: landing` `Heavy: landing` stay above the heavy aircraft's flight path, and land *past* its touchdown point.
     - `You: land` `Heavy: takeoff` aim to land "before" the point the aircraft became airborne
 - Helicopter Downwash (Rotorwash)
   - vertically and outwards
+
+### Meteorology
+
+- Clouds
+  - Latin
+    - `cumulus`: heaped
+    - `altus`: high
+    - `cirrus`: curl
+    - `stratus`: layered
+    - `nimbus`: rainstorm
+  - Special Types of Clouds
+    - **Nimbostratus**: a multi-level, amorphous, nearly uniform and often dark grey cloud that usually produces continuous rain, snow or sleet but no lightning or thunder.
+    - **Cumulonimbus**: are capable of producing lightning and other dangerous severe weather, such as tornadoes, hazardous winds, and large hailstones.
+    - **Cumulus**:
+      - form via atmospheric convection as air warmed by the surface begins to rise.
+      - are often precursors of other types of clouds, such as cumulonimbus, when influenced by weather factors such as instability, moisture, and temperature gradient.
+      - tubular cloud streets (in lines stretching over 480 kilometres long) generally form during high-pressure systems, such as after a cold front.
+      - good visibility between cumulus clouds
+    - **Stratus**: while light rain (drizzle) may fall, this cloud does not indicate much meteorological precipitation.
+- Mountain Waves
+- **Thermals** are caused by the sun heating the earth.
+- **Turbulence**
+  - *Light*: No significant changes to the aircraft attitude and/or altitude
+  - *Moderate*: May change the aircraft attitude and/or altitude but the aircraft remains positive control at all times
+  - *Severe*: abrupt changes in aircraft attitude/altitude, and the aircraft may be out of control for short periods
+- Convection
+- Inversion
+- Interpret Synoptic Chart
 
 ### Loading
 
