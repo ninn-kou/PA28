@@ -192,6 +192,13 @@ risk exists
     - `Turning left, skidding right, compass decreasing, wings level`
     - `Turning right, skidding left, compass increasing, wings level`
 
+### Loading
+
+- Charts
+  - Loading Chart "Alpha"
+  - Loading Chart "Bravo"
+  - Loading Chart "Charlie"
+
 ### Performance
 
 - Pressure Altitude
