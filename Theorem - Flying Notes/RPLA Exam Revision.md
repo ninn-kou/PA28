@@ -271,6 +271,13 @@ risk exists
 - Convection
 - Inversion
 - Interpret Synoptic Chart
+  - **[The art of the chart: how to read a weather map](https://media.bom.gov.au/social/blog/2391/the-art-of-the-chart-how-to-read-a-weather-map/)**
+  - *Isobars*: Lines connecting points of equal pressure
+  - *Isotachs*: Lines connecting points of equal wind speed
+  - *Cold Fronts*
+  - *Warm Fronts*
+  - *Occluded Fronts*
+  - *Troughs*: areas where the air is particularly unstable
 
 ### Loading
 
@@ -378,8 +385,3 @@ risk exists
     - meteorological **area forecast boundaries and locations**
     - **communication coverage** outside controlled airspace and WAC coverage
 - IAS to TAS for low speed aircraft
-
-### Other Concepts
-
-- **Isobars**: Lines connecting points of equal pressure
-- **Isotachs**: Lines connecting points of equal wind speed
