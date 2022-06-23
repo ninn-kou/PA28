@@ -192,6 +192,37 @@ risk exists
     - `Turning left, skidding right, compass decreasing, wings level`
     - `Turning right, skidding left, compass increasing, wings level`
 
+### Atmospheric Effects
+
+- Airspeed
+  - Indicated Airspeed `IAS`
+  - True Airspeed `TAS`
+  - Calibrated Airspeed `CAS`
+- Wind
+  - **Headwind**
+    - while taxiing, elevator *up* (control column *back*)
+    - *reduce* the takeoff and landing distance
+    - *steeper* angle for climbing and descending
+  - **Tailwind**
+    - while taxiing, elevator *down* (control column *forward*)
+    - *increase* the takeoff and landing distance
+    - *shallower* angle for climbing and descending
+  - **Crosswind**
+    - while taxiing, **up aileron** into wind (control column *into wind*)
+    - nose *into wind* to correct the flight path
+- Windshear and Wind Gradient
+  - Reducing headwind could cause *overshoot*
+  - Reducing tailwind could cause *undershoot*
+- Turbulence
+  - *Turbulent vortices causing downdrafts are most likely downwind of the obstacle.*
+  - **Weak turbulence** could lead to very strong rolling moment or a direct downdraught by increasing AoA from a heavy aeroplane.
+  - To **avoid** weak turbulence
+    - `You: takeoff` `Heavy: takeoff` liftoff *before* the heavy aircraft's liftoff point, and stay above and upwind its flight path
+    - `You: landing` `Heavy: landing` stay above the heavy aircraft's flight path, and land *past* its touchdown point.
+    - `You: land` `Heavy: takeoff` aim to land "before" the point the aircraft became airborne
+- Helicopter Downwash (Rotorwash)
+  - vertically and outwards
+
 ### Loading
 
 - Charts
